@@ -19,7 +19,7 @@ Aprender a reconocer nuevos metodos para la resolucion de circuitos.
 *  Establecer de manera concreta la relación entre corriente, voltaje y resistencia.
 *  Analizar y aprender que es el el magnetismo.
 *  analizar y aprender que es el electromagnetismo.
-*  
+ 
 2.MARCO TEÓRICO
 
 CAPITULO 9 : 
