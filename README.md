@@ -11,19 +11,33 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 1.1 Objetivo general:
 
-Aprender el uso de nuevos metodos para la resolucion de circuitos.
+Aprender a reconocer nuevos metodos para la resolucion de circuitos.
 
 1.2 Objetivos especificos:
 
-*  Emplear la Ley de Ohm para determinar los valores de la corriente.
-*  Establecer la relación entre corriente, voltaje y resistencia.
-*  Aprender que es el el magnetismo.
-*  Aprender que es el electromagnetismo.
+*  Poner en practica la Ley de Ohm para encontrar los valores de la corriente.
+*  Establecer de manera concreta la relación entre corriente, voltaje y resistencia.
+*  Analizar y aprender que es el el magnetismo.
+*  analizar y aprender que es el electromagnetismo.
 *  
 2.MARCO TEÓRICO
 
+CAPITULO 9 : 
+
+
+
+CAPITULO 10 : 
+
+
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+CAPITULO 9 : 
+-Ejercicios inpares
+
+
+
+CAPITULO 10 : 
+-Ejercicios inpares
 
 
 
