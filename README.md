@@ -146,11 +146,11 @@ CAPITULO 9 :
 CAPITULO 10 : 
 -Ejercicios pares
 
-
+![CAP_10](https://user-images.githubusercontent.com/117534483/214208053-bfaaaa60-998c-4c09-9d96-cadeae8e16cd.jpg)
 
 4.VIDEO
 
-
+-
 
 5.CONCLUSIONES
 
