@@ -22,7 +22,8 @@ El informe realizado a continuación está evaluado y especificado para la compr
  
 # 2.MARCO TEÓRICO
 
-# CAPITULO 9 : 
+-  CAPITULO 9 :
+
 
 ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS 
 
@@ -92,7 +93,7 @@ Al aplicar el método del voltaje en nodos al circuito puente T se obtienen tamb
 
 ![4](https://user-images.githubusercontent.com/117534483/214205821-133a1fda-5409-4ac6-ab8d-26f7cf36c8f0.png)
 
-# CAPITULO 10 : 
+-  CAPITULO 10 : 
 
 EL CAMPO MAGNÉTICO
 
