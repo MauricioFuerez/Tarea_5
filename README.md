@@ -11,7 +11,7 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 1.1 Objetivo general:
 
-Aprender a reconocer nuevos metodos para la resolucion de circuitos.
+* Analizar y entender el capitulo 9 y 10 del libro "Principios de circuitos electricos - Floyd" para lo cual se debera leer y resolver los ejercicios pares que se encuentran al terminar el capitulo.
 
 1.2 Objetivos especificos:
 
@@ -137,6 +137,7 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 ![9](https://user-images.githubusercontent.com/117534483/214205858-90525054-1734-4751-8eed-238a763f8736.png)
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 CAPITULO 9 : 
 -Ejercicios pares
 
@@ -153,10 +154,39 @@ CAPITULO 10 :
 
 5.CONCLUSIONES
 
-El magnetismo fenómeno físico a el que ejerce fuerzas de atracciónante algunos objetos, el níquel, el cobalto el hierro y las aleaciones se les llama imanes.
-El electromagnetismo es la producción de magnetismo en el espacio alrededor de un cable que conduce unacorriente eléctrica o de una partícula cargada en movimiento. Es una de las fuerzas fundamentales de la naturaleza.
-Podemos generar ecuaciones con 2 3 o mas incognitas, para la resolucion de circuitos, mediante el metodo de nodos, lazos, ramas y mallas.
-Las leyes de kirchoff permiten una resolucion simple a circuitos mixtos, con varios voltajes y resistencias.
+-Las leyes de kirchoff permiten una resolucion simple a circuitos mixtos, con varios voltajes y resistencias.
+
+-El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff.
+
+-El método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff.
+
+-La corriente que circula en un lazo no es necesariamente la corriente real presente en una rama.
+
+-El método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
+
+-Los polos magnéticos desiguales se atraen entre sí y los polos iguales se repelen uno a otro.
+
+-Los materiales que pueden ser magnetizados se llaman ferromagnéticos.
+
+-Cuando hay corriente a través de un conductor, se produce un campo electromagnético alrededor del conductor.
+
+-Se puede utilizar la regla de la mano derecha para establecer la dirección de las líneas de fuerza electromagnéticas presentes alrededor de un conductor.
+
+-Un electroimán es básicamente una bobina de alambre alrededor de un núcleo magnético.
+
+-Cuando un conductor se mueve adentro de un campo magnético, o cuando un campo magnético se mueve con respecto a un conductor, se induce un voltaje entre los extremos del conductor.
+
+-Mientras más rápido es el movimiento relativo entre un conductor y un campo magnético, más grande es el voltaje inducido.
+
+-El magnetismo fenómeno físico a el que ejerce fuerzas de atracciónante algunos objetos, el níquel, el cobalto el hierro y las aleaciones se les llama imanes.
+
+-El electromagnetismo es la producción de magnetismo en el espacio alrededor de un cable que conduce unacorriente eléctrica o de una partícula cargada en movimiento. 
+
+-Es una de las fuerzas fundamentales de la naturaleza.
+
+-Podemos generar ecuaciones con 2 3 o mas incognitas, para la resolucion de circuitos, mediante el metodo de nodos, lazos, ramas y mallas.
+
+
 6.BIBLIOGRAFÍA
 
 *  Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education.
