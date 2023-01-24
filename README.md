@@ -141,7 +141,7 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 CAPITULO 9 : 
 -Ejercicios pares
 
-
+![CAP__9](https://user-images.githubusercontent.com/117534483/214207693-8a0a449a-2f4c-4cfb-b350-1240cf9645f3.jpg)
 
 CAPITULO 10 : 
 -Ejercicios pares
