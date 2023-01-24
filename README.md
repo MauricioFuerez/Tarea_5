@@ -7,7 +7,7 @@ NRC:10069
 
 El informe realizado a continuación está evaluado y especificado para la compresión de los capítulos 9 y 10 del libro: Principios de circuitos eléctricos - Floyd
 
-1.OBJETIVOS
+# 1.OBJETIVOS
 
 1.1 Objetivo general:
 
@@ -20,9 +20,9 @@ El informe realizado a continuación está evaluado y especificado para la compr
 *  Analizar y aprender que es el el magnetismo.
 *  analizar y aprender que es el electromagnetismo.
  
-2.MARCO TEÓRICO
+# 2.MARCO TEÓRICO
 
-CAPITULO 9 : 
+# CAPITULO 9 : 
 
 ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS 
 
@@ -92,7 +92,7 @@ Al aplicar el método del voltaje en nodos al circuito puente T se obtienen tamb
 
 ![4](https://user-images.githubusercontent.com/117534483/214205821-133a1fda-5409-4ac6-ab8d-26f7cf36c8f0.png)
 
-CAPITULO 10 : 
+# CAPITULO 10 : 
 
 EL CAMPO MAGNÉTICO
 
@@ -136,25 +136,21 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 
 ![9](https://user-images.githubusercontent.com/117534483/214205858-90525054-1734-4751-8eed-238a763f8736.png)
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-# CAPITULO 9 : 
-
--Ejercicios pares
+# CAPITULO 9 : -Ejercicios pares
 
 ![CAP__9](https://user-images.githubusercontent.com/117534483/214207693-8a0a449a-2f4c-4cfb-b350-1240cf9645f3.jpg)
 
-#CAPITULO 10 : 
-
--Ejercicios pares
+# CAPITULO 10 : -Ejercicios pares
 
 ![CAP_10](https://user-images.githubusercontent.com/117534483/214208053-bfaaaa60-998c-4c09-9d96-cadeae8e16cd.jpg)
 
-4.VIDEO
+# 4.VIDEO
 
 -
 
-5.CONCLUSIONES
+# 5.CONCLUSIONES
 
 -Las leyes de kirchoff permiten una resolucion simple a circuitos mixtos, con varios voltajes y resistencias.
 
@@ -189,6 +185,6 @@ La letra minúscula v denota voltaje instantáneo. Sólo se induce voltaje cuand
 -Podemos generar ecuaciones con 2 3 o mas incognitas, para la resolucion de circuitos, mediante el metodo de nodos, lazos, ramas y mallas.
 
 
-6.BIBLIOGRAFÍA
+# 6.BIBLIOGRAFÍA
 
 *  Floyd (8va Ed)(2007). Principios de circuitos electricos. Pearson Education.
